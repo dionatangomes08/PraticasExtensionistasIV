@@ -235,10 +235,14 @@ npm run lint
 
 Este projeto está sob a licença [UNLICENSED]. Veja o arquivo `LICENSE` para mais detalhes.
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
 **Jordan Neves**
 - GitHub: [@jordanneves](https://github.com/jordanneves)
+**Dionatan Gomes**
+- GitHub: [@dionatangomes08](https://github.com/dionatangomes08)
+**Fabricio Ludwig Perozzo**
+**Marcelo Margreiter**
 
 ## 📞 Suporte
 
